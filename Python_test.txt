@@ -1,0 +1,64 @@
+1. What is Python and who invented it?
+2. What is the latest version of Python & explain installation process?
+3. What is the different between 2.x & 3.x python?
+4.What are literals?
+5.How many types of literals?
+6.What is formats?
+7.What are keywords, identifiers?
+8.What are control Charactors?
+9.What are implicit & explicit line joining?
+10.difference between operators & operands?
+11. List down all the operators with examples for each operator?
+12.What is precedence & assosiativity?
+13.What are input & output operators & Give the examples?
+14.Define the types of control structures?
+15.Define if-else & come up with atleast 3programs?
+16.What is range function?
+17. Why Xrange is not present in the  python 3.x?
+18.What is forloop?
+19.Write following programs:
+      i.ForLoop to print basic Pyramid Pattern
+     ii.2 stars increment in each line
+    iii.Print stars in the pyramid shape
+     iv.Reverse Pyramid shape  
+     v.Dimond Shape
+    vi.Print A
+   vii. print B
+  viii.Print E
+20. What is while loop?
+21. Come up with alleast 5 different while loop programs?
+22.What is break & Continue, Explain the difference?
+23. Come up with each example for break & Continue?
+24.What is list Datastructure?
+25.What are the list operators & Come up with the example for each list operator on your own?
+26.What are tuples?
+27.What are the sequence operators & list down all the sequence operators?
+28.What are List Assignment & Copying, Come up with 3examples atleast?
+29.What are functions?
+30.How the function is defined?
+31.How to pass the parameters to the functions & give an example?
+32.What are local & global variable?
+33.What are keyword & default arguments, come up with your own examples?
+34.What are local & global variables?
+35. Come up with your own examples for local & global variables?
+36.How do you update global variables & come up with your own gobal variables examples?
+37.What are anonymous functions?
+38.What is lambda function?
+39.What are variable length arguments?
+40.What are string functions & come up with your own examples for all the string functions?
+41.What is module & explain what you understand in modules with different example other than which is given in the notes?
+42.What are dictonaries?
+43.Come up with your own various examples with dictionaries?
+44.Come up with your own examples how the dictionaries can be used in the control statements?
+45.What is file handling?
+46.What is exception & try handling & come up with your own examples?
+47.What is readmode & come up with your own example?
+48.What is write mode &  come up with your own example?
+49.What is append mode & & come up with your own example?
+50.What are place holders & eloborate all the place holders with your own examples?
+51.how to generate random numbers?
+52. Take up the Battleship Project & explain the flow?
+
+Try to come up with the answers with your own understanding which makes you more stronger. 
+
+
